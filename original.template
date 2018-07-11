@@ -1,0 +1,201 @@
+﻿#EXTM3U
+#EXTINF:-1,Первый
+http://iptv1.sampo.ru/pervii
+#EXTINF:-1,Россия 1
+http://iptv1.sampo.ru/rossiya1
+#EXTINF:-1,Россия 2
+http://iptv1.sampo.ru/rossiya2
+#EXTINF:-1,Россия 24
+http://iptv1.sampo.ru/rossiya24
+#EXTINF:-1,Россия К
+http://iptv1.sampo.ru/rossiyak
+#EXTINF:-1,5 канал
+http://iptv1.sampo.ru/5kanal
+#EXTINF:-1,НТВ
+http://iptv1.sampo.ru/ntv
+#EXTINF:-1,Карусель
+http://iptv1.sampo.ru/karusel
+#EXTINF:-1,Ника Плюс
+http://iptv1.sampo.ru/nikaplus
+#EXTINF:-1,СТС
+http://iptv1.sampo.ru/sts
+#EXTINF:-1,ТВЦ
+http://iptv1.sampo.ru/tvc
+#EXTINF:-1,Дисней
+http://iptv1.sampo.ru/disney
+#EXTINF:-1,ТНТ
+http://iptv1.sampo.ru/tnt
+#EXTINF:-1,Перец
+http://iptv1.sampo.ru/peretz
+#EXTINF:-1,Сампо ТВ
+http://iptv1.sampo.ru/sampo
+#EXTINF:-1,ОТР
+http://iptv1.sampo.ru/otr
+#EXTINF:-1,Инфоканал
+http://iptv1.sampo.ru/info
+#EXTINF:-1,Первый канал (цифр.)
+http://iptv.karelia.pro/Pervyj-16x9
+#EXTINF:-1,Россия 1 (цифр.)
+http://iptv.karelia.pro/Rossija1m
+#EXTINF:-1,МатчТВ
+http://iptv.karelia.pro/MatchTV
+#EXTINF:-1,НТВ (цифр.)
+http://iptv.karelia.pro/NTVm
+#EXTINF:-1,5 канал
+http://iptv.karelia.pro/5-kanal
+#EXTINF:-1,Россия К
+http://iptv.karelia.pro/Rossija-K
+#EXTINF:-1,Россия 24
+http://iptv.karelia.pro/Rossija-24
+#EXTINF:-1,Карусель (цифр.)
+http://iptv.karelia.pro/Karuselm
+#EXTINF:-1,ОТР
+http://iptv.karelia.pro/OTR
+#EXTINF:-1,ТВЦ (цифр.)
+http://iptv.karelia.pro/TVCm
+#EXTINF:-1,РЕН-ТВ (цифр.)
+http://iptv.karelia.pro/Renm
+#EXTINF:-1,Спас
+http://iptv.karelia.pro/Spas
+#EXTINF:-1,СТС (цифр.)
+http://iptv.karelia.pro/STSm
+#EXTINF:-1,Домашний
+http://iptv.karelia.pro/Domashnij
+#EXTINF:-1,ТВ3
+http://iptv.karelia.pro/TV3
+#EXTINF:-1,Пятница
+http://iptv.karelia.pro/MTV-Rossija
+#EXTINF:-1,Звезда
+http://iptv.karelia.pro/Zvezda
+#EXTINF:-1,МИР 24
+http://iptv.karelia.pro/Mir24
+#EXTINF:-1,ТНТ (цифр.)
+http://iptv.karelia.pro/TNTm
+#EXTINF:-1,Муз ТВ
+http://iptv.karelia.pro/Muztv
+#EXTINF:-1,СампоТВ
+http://iptv.karelia.pro/SampoTV
+#EXTINF:-1,Первый канал
+http://iptv.karelia.pro/Pervyjm
+#EXTINF:-1,Россия 1 - Карелия
+http://iptv.karelia.pro/Rossija-1
+#EXTINF:-1,НТВ
+http://iptv.karelia.pro/NTV
+#EXTINF:-1,Карусель
+http://iptv.karelia.pro/Karusel
+#EXTINF:-1,ТВЦ
+http://iptv.karelia.pro/TVC
+#EXTINF:-1,РЕН-ТВ
+http://iptv.karelia.pro/REN
+#EXTINF:-1,СТС
+http://iptv.karelia.pro/STS
+#EXTINF:-1,ТНТ Онего
+http://iptv.karelia.pro/TNT-Onego
+#EXTINF:-1,Ю
+http://iptv.karelia.pro/Ju
+#EXTINF:-1,РБК
+http://iptv.karelia.pro/RBK
+#EXTINF:-1,Euronews
+http://iptv.karelia.pro/Euronews
+#EXTINF:-1,Russia Today
+http://iptv.karelia.pro/Russia-Today
+#EXTINF:-1,France 24
+http://iptv.karelia.pro/France-24
+#EXTINF:-1,DW Europe
+http://iptv.karelia.pro/DW-Europe
+#EXTINF:-1,Life-news
+http://iptv.karelia.pro/Life-News
+#EXTINF:-1,Вместе РФ
+http://iptv.karelia.pro/Vmeste-RF
+#EXTINF:-1,BBC
+http://iptv.karelia.pro/BBC
+#EXTINF:-1,RT Док
+http://iptv.karelia.pro/RTDok
+#EXTINF:-1,Дождь
+http://iptv.karelia.pro/Dozhd
+#EXTINF:-1,ТБН Россия
+http://iptv.karelia.pro/TBNRossija
+#EXTINF:-1,Лот
+http://iptv.karelia.pro/Lot
+#EXTINF:-1,Эхо ТВ
+http://iptv.karelia.pro/Eho
+#EXTINF:-1,Disney
+http://iptv.karelia.pro/Disney
+#EXTINF:-1,Мультимания
+http://iptv.karelia.pro/Multimanija
+#EXTINF:-1,Nickelodeon
+http://iptv.karelia.pro/Nickelodeon
+#EXTINF:-1,Рыжий
+http://iptv.karelia.pro/Ryzhiy
+#EXTINF:-1,Мульт
+http://iptv.karelia.pro/Mult
+#EXTINF:-1,Ани
+http://iptv.karelia.pro/Ani
+#EXTINF:-1,Детский
+http://iptv.karelia.pro/Detskij
+#EXTINF:-1,Первый образовательный
+http://iptv.karelia.pro/PervyjObrazovatelnyj
+#EXTINF:-1,Cartoon Network
+http://iptv.karelia.pro/CartoonNetwork
+#EXTINF:-1,Мама
+http://iptv.karelia.pro/Mat-I-Ditja
+#EXTINF:-1,Радость моя
+http://iptv.karelia.pro/RadostMoja
+#EXTINF:-1,Улыбка ребенка
+http://iptv.karelia.pro/UlybkaRebenka
+#EXTINF:-1,Наука 2.0
+http://iptv.karelia.pro/Nauka-2.0
+#EXTINF:-1,Союз
+http://iptv.karelia.pro/Sojuz
+#EXTINF:-1,RTG
+http://iptv.karelia.pro/RTG
+#EXTINF:-1,Моя планета
+http://iptv.karelia.pro/Moja-planeta
+#EXTINF:-1,Авто Плюс
+http://iptv.karelia.pro/Avto-Plus
+#EXTINF:-1,365 дней
+http://iptv.karelia.pro/365-dnej
+#EXTINF:-1,Охота и рыбалка
+http://iptv.karelia.pro/Ohota-i-rybalka
+#EXTINF:-1,Драйв
+http://iptv.karelia.pro/Drive
+#EXTINF:-1,Здоровое ТВ
+http://iptv.karelia.pro/Zdorovoe-TV
+#EXTINF:-1,Усадьба
+http://iptv.karelia.pro/Usadba
+#EXTINF:-1,Домашние животные
+http://iptv.karelia.pro/Domashnie-zhivotnie
+#EXTINF:-1,Психология 21
+http://iptv.karelia.pro/Psihologia-21
+#EXTINF:-1,Вопросы и Ответы
+http://iptv.karelia.pro/Voprosi-i-otveti
+#EXTINF:-1,Просвещение
+http://iptv.karelia.pro/Prosveshen
+#EXTINF:-1,Инва Медиа ТВ
+http://iptv.karelia.pro/Inva
+#EXTINF:-1,NatGeo WILD
+http://iptv.karelia.pro/NatGeoWild
+#EXTINF:-1,National Geographic
+http://iptv.karelia.pro/NationalGeographic
+#EXTINF:-1,Живая планета
+http://iptv.karelia.pro/Zhivayaplaneta
+#EXTINF:-1,История
+http://iptv.karelia.pro/Istorija
+#EXTINF:-1,Нано ТВ
+http://iptv.karelia.pro/NanoTV
+#EXTINF:-1,Телепутешествия
+http://iptv.karelia.pro/Teleputeshestvija
+#EXTINF:-1,Загородный
+http://iptv.karelia.pro/Zagorodnyi
+#EXTINF:-1,Зоо ТВ
+http://iptv.karelia.pro/Zoo-TV
+#EXTINF:-1,World Business Channel
+http://iptv.karelia.pro/Wbcsd
+#EXTINF:-1,Мир
+http://iptv.karelia.pro/Mir
+#EXTINF:-1,Русский роман
+http://iptv.karelia.pro/Russkij-roman
+#EXTINF:-1,FOX Life
+http://iptv.karelia.pro/FoxLife
+#EXTINF:-1,FOX
+http://iptv.karelia.pro/Fox
