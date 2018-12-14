@@ -3,7 +3,6 @@
 rm -f ./tmp/*.m3u
 rm -f ./tmp/out.tmp
 clear
-#curl -A "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)" "https://secure.topiptv.info/list.php?login=victor3d&password=geheim&type=m3u" > ./tmp/1.m3u
 wget -P ./tmp http://iptv.slynet.tv/FreeSlyNet.m3u -O ./tmp/2.m3u
 wget -P ./tmp http://iptv.slynet.tv/FreeBestTV.m3u -O ./tmp/3.m3u
 wget -P ./tmp http://iptv.slynet.tv/FreeWorldTV.m3u -O ./tmp/4.m3u
